@@ -45,14 +45,12 @@
     "framework-arduinorenesas-uno": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.0.4"
+      "version": "https://github.com/arduino/ArduinoCore-renesas.git"
     },
     "framework-arduinorenesas-portenta": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.0.4"
+      "version": "https://github.com/arduino/ArduinoCore-renesas.git"
     },
     "framework-renesas-fsp": {
       "type": "framework",
